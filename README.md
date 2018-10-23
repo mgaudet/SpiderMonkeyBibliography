@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# The Unofficial, Incomplete, SpiderMonkey Bibliography 
 
-You can use the [editor on GitHub](https://github.com/mgaudet/SpiderMonkeyBibliography/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A collection of links to published articles, blog posts, talks, and other important pieces of history of the SpiderMonkey JavaScript engine. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Articles 
 
-### Markdown
+* [Trace-based just-in-time type specialization for dynamic languages](https://dl.acm.org/citation.cfm?id=1542528) _Brendan Eich, Andreas Gal, Mike Shaver, David Anderson, David Mandelin, Mohammad R. Haghighat, Blake Kaplan, Graydon Hoare, Boris Zbarsky, Jason Orendorff, Jesse Ruderman, Edwin W. Smith, Rick Reitmaier, Michael Bebenita, Mason Chang, Michael Franz_, PDLI '09
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Blog Posts
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgaudet/SpiderMonkeyBibliography/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Talks 
