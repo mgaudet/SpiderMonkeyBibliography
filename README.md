@@ -1,5 +1,3 @@
-# The Unofficial, Incomplete, SpiderMonkey Bibliography 
-
 A collection of links to published articles, blog posts, talks, and other important pieces of history of the SpiderMonkey JavaScript engine. 
 
 ## Articles 
