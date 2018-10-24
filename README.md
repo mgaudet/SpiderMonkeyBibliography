@@ -38,7 +38,7 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 
 ### Type Inference
 
-* [Fast and precise hybrid type inference for JavaScript](https://dl.acm.org/citation.cfm?id=2254094) 🎓 [📄](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.9413&rep=rep1&type=pdf)
+* [Fast and precise hybrid type inference for JavaScript](https://dl.acm.org/citation.cfm?id=2254094) - _Brian Hackett, Shu-yu Guo_ 🎓 [📄](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.9413&rep=rep1&type=pdf)
 
 ### Optimization Tracking 🎓
 
@@ -48,9 +48,9 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 ## Garbage Collecction 
 
 
-* [Compacting Garbage Collection in SpiderMonkey](https://hacks.mozilla.org/2015/07/compacting-garbage-collection-in-spidermonkey/) -  Jon Coppeard
+* [Compacting Garbage Collection in SpiderMonkey](https://hacks.mozilla.org/2015/07/compacting-garbage-collection-in-spidermonkey/) - _Jon Coppeard_
 
 ## Embedding 
 
 * [Code-generating Away the Boilerplate in Our Migration Back to Spidermonkey](https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey) - _Jason Carey_ 
-* [SpiderMonkey Embdedding Examples](https://github.com/spidermonkey-embedders/spidermonkey-embedding-examples) 
+* [SpiderMonkey Embdedding Examples](https://github.com/spidermonkey-embedders/spidermonkey-embedding-examples)
