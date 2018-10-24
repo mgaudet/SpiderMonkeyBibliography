@@ -10,8 +10,10 @@ The goal is try to collect together much of what has been written about SpiderMo
 * 📄 Link to PDF
 * 📽 Video
 
+
 ## Compiler Technology
 
+* [Debugging in the Time of JITs](https://rfrn.org/~shu/2014/05/14/debugging-in-the-time-of-jits.html) - _Shu-yu Guo_
 
 ### Tracemonkey 🏚
 
@@ -48,12 +50,15 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 * [Optimization Coaching for JavaScript](https://2015.ecoop.org/event/research-track-optimization-coaching-for-javascript) - _Vincent St-Amour, Shu-yu Guo_ ECOOP '15 [📄](http://www.ccs.neu.edu/home/stamourv/papers/optimization-coaching-js.pdf)
     * [Presentation 📽](https://www.youtube.com/watch?v=ZBYj9UHoml0)
 
-## Garbage Collecction 
+## Debugger
 
-
-* [Compacting Garbage Collection in SpiderMonkey](https://hacks.mozilla.org/2015/07/compacting-garbage-collection-in-spidermonkey/) - _Jon Coppeard_
+* [Making SpiderMonkey's Debugger Just-in-Time](https://rfrn.org/~shu/2014/11/20/speeding-up-debugger.html) - _Shu-yu Guo_
 
 ## Embedding 
 
 * [Code-generating Away the Boilerplate in Our Migration Back to Spidermonkey](https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey) - _Jason Carey_ 
 * [SpiderMonkey Embdedding Examples](https://github.com/spidermonkey-embedders/spidermonkey-embedding-examples)
+
+## Garbage Collecction 
+
+* [Compacting Garbage Collection in SpiderMonkey](https://hacks.mozilla.org/2015/07/compacting-garbage-collection-in-spidermonkey/) - _Jon Coppeard_
