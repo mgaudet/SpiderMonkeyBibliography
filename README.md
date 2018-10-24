@@ -26,6 +26,7 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 ### IonMonkey
 
 * [IonMonkey in Firefox 18](https://blog.mozilla.org/javascript/2012/09/12/ionmonkey-in-firefox-18/) - _David Anderson_
+* [Recover Instructions](https://nbp.github.io/slides/RInstruction/) - _Nicolas B. Pierron_
 
 ### Baseline 
 
