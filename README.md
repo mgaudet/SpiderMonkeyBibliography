@@ -59,6 +59,6 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 * [Code-generating Away the Boilerplate in Our Migration Back to Spidermonkey](https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey) - _Jason Carey_ 
 * [SpiderMonkey Embdedding Examples](https://github.com/spidermonkey-embedders/spidermonkey-embedding-examples)
 
-## Garbage Collecction 
+## Garbage Collection 
 
 * [Compacting Garbage Collection in SpiderMonkey](https://hacks.mozilla.org/2015/07/compacting-garbage-collection-in-spidermonkey/) - _Jon Coppeard_
