@@ -33,6 +33,11 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 * [Recover Instructions](https://nbp.github.io/slides/RInstruction/) - _Nicolas B. Pierron_
 * [Just-in-Time Value specialization](https://ieeexplore.ieee.org/document/6495006) - _Igor Costa, Péricles Alves, Henrique Nazaré Santos, Fernando Magno Quintão Pereira_, CGO '13, 🎓 [📄](https://homepages.dcc.ufmg.br/~fernando/publications/papers/CGO13_igor.pdf)
 
+### OdinMonkey (asm.js)
+
+* [asm.js in Firefox Nightly](https://blog.mozilla.org/luke/2013/03/21/asm-js-in-firefox-nightly/) - _Luke Wagner_
+* [asm.js AOT compilation and startup performance](https://blog.mozilla.org/luke/2014/01/14/asm-js-aot-compilation-and-startup-performance/) - _Luke Wagner_
+
 ### Baseline 
 
 * [The Baseline Compiler Has Landed](https://blog.mozilla.org/javascript/2013/04/05/the-baseline-compiler-has-landed/) - _Kannan Vijayan_
