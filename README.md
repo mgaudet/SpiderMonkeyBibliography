@@ -66,4 +66,8 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 
 ## Garbage Collection 
 
+* [Garbage collection](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals/Garbage_collection) - _MDN_
+* [GC Rooting Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/GC_Rooting_Guide) - _MDN_
 * [Compacting Garbage Collection in SpiderMonkey](https://hacks.mozilla.org/2015/07/compacting-garbage-collection-in-spidermonkey/) - _Jon Coppeard_
+* [Generational Garbage Collection in Firefox](https://hacks.mozilla.org/2014/09/generational-garbage-collection-in-firefox/) - _Steve Fink_
+* [Incremental GC in Firefox 16!](https://blog.mozilla.org/javascript/2012/08/28/incremental-gc-in-firefox-16/) - _Bill McCloskey_
