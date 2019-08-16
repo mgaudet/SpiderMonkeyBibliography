@@ -38,6 +38,10 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 * [asm.js in Firefox Nightly](https://blog.mozilla.org/luke/2013/03/21/asm-js-in-firefox-nightly/) - _Luke Wagner_
 * [asm.js AOT compilation and startup performance](https://blog.mozilla.org/luke/2014/01/14/asm-js-aot-compilation-and-startup-performance/) - _Luke Wagner_
 
+### Rabaldr (wasm baseline compiler)
+
+* [Making WebAssembly even faster: Firefox’s new streaming and tiering compiler](https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/) - _Lin Clark_
+
 ### Baseline 
 
 * [The Baseline Compiler Has Landed](https://blog.mozilla.org/javascript/2013/04/05/the-baseline-compiler-has-landed/) - _Kannan Vijayan_
