@@ -1,11 +1,11 @@
-A collection of links to published articles, blog posts, talks, and other important pieces of history of the SpiderMonkey JavaScript engine. 
-
+A collection of links to published articles, blog posts, talks, and other important pieces of history of the SpiderMonkey JavaScript engine.
+A
 The goal is try to collect together much of what has been written about SpiderMonkey across the internet. This includes research done atop SpiderMonkey, as well as techniques and advances within the engine.
 
 
 #### Annotations
 
-* 🏚 Obsolete: Code removed from today's SpiderMonkey codebase. 
+* 🏚 Obsolete: Code removed from today's SpiderMonkey codebase.
 * 🎓 Academic Source
 * 📄 Link to PDF
 * 📽 Video
@@ -42,7 +42,12 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 
 * [Making WebAssembly even faster: Firefox’s new streaming and tiering compiler](https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/) - _Lin Clark_
 
-### Baseline 
+### BaldrMonkey (WebAssembly)
+
+* [Making asm.js/WebAssembly compilation more parallel in Firefox](https://blog.benj.me/2016/04/22/making-asmjs-webassembly-compilation-more-parallel) - _Benjamin Bouvier_ (story of the refactoring of Odin into Baldr + parallel compilation)
+* [Calls between JavaScript and WebAssembly are finally fast 🎉](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%f0%9f%8e%89/) - _Lin Clark_ (fast calls between JIT and WebAssembly in both ways)
+
+### Baseline
 
 * [The Baseline Compiler Has Landed](https://blog.mozilla.org/javascript/2013/04/05/the-baseline-compiler-has-landed/) - _Kannan Vijayan_
 
@@ -63,12 +68,12 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 
 * [Making SpiderMonkey's Debugger Just-in-Time](https://rfrn.org/~shu/2014/11/20/speeding-up-debugger.html) - _Shu-yu Guo_
 
-## Embedding 
+## Embedding
 
-* [Code-generating Away the Boilerplate in Our Migration Back to Spidermonkey](https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey) - _Jason Carey_ 
-* [SpiderMonkey Embdedding Examples](https://github.com/spidermonkey-embedders/spidermonkey-embedding-examples)
+* [Code-generating Away the Boilerplate in Our Migration Back to Spidermonkey](https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey) - _Jason Carey_
+* [SpiderMonkey Embedding Examples](https://github.com/spidermonkey-embedders/spidermonkey-embedding-examples)
 
-## Garbage Collection 
+## Garbage Collection
 
 * [Garbage collection](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Internals/Garbage_collection) - _MDN_
 * [GC Rooting Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/GC_Rooting_Guide) - _MDN_
