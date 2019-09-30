@@ -1,5 +1,5 @@
 A collection of links to published articles, blog posts, talks, and other important pieces of history of the SpiderMonkey JavaScript engine.
-A
+
 The goal is try to collect together much of what has been written about SpiderMonkey across the internet. This includes research done atop SpiderMonkey, as well as techniques and advances within the engine.
 
 
