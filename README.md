@@ -14,6 +14,7 @@ The goal is try to collect together much of what has been written about SpiderMo
 ## Compiler Technology
 
 * [Debugging in the Time of JITs](https://rfrn.org/~shu/2014/05/14/debugging-in-the-time-of-jits.html) - _Shu-yu Guo_
+* [A Beginners Guide to SpiderMonkey's MacroAssembler](https://www.mgaudet.ca/technical/2019/4/9/a-beginners-guide-to-spidermonkeys-macroassembler) - _Matthew Gaudet_ (2019)
 
 ### Tracemonkey 🏚
 
