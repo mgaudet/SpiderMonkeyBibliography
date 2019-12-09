@@ -23,7 +23,7 @@ TraceMonkey was the first JIT compiler added to SpiderMonkey, and [removed in Mo
 
 * [An Overview of TraceMonkey](https://hacks.mozilla.org/2009/07/tracemonkey-overview/) - _David Mandelin_
 
-### JaegerMonkey
+### JaegerMonkey 🏚
 
 The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://github.com/mgaudet/SpiderMonkeyBibliography/issues/1))
 
