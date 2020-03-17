@@ -10,6 +10,10 @@ The goal is try to collect together much of what has been written about SpiderMo
 * 📄 Link to PDF
 * 📽 Video
 
+## Early Days
+
+* [JavaScript: The First 20 Years](https://zenodo.org/record/3710954) - _Allen Wirfs-Brock and Brendan Eich_ (2020)  (Especially Part 1, Section 5: From Mocha to SpiderMonkey) 
+
 
 ## Compiler Technology
 
