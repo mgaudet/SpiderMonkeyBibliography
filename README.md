@@ -47,6 +47,8 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 ### Rabaldr (wasm baseline compiler)
 
 * [Making WebAssembly even faster: Firefox’s new streaming and tiering compiler](https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/) - _Lin Clark_
+* [firefox's low-latency webassembly compiler](https://wingolog.org/archives/2020/03/25/firefoxs-low-latency-webassembly-compiler) - _Andy Wingo_ (2020) 
+
 
 ### BaldrMonkey (WebAssembly)
 
