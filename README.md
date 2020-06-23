@@ -57,6 +57,7 @@ The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://g
 
 ### Baseline
 
+* [The Baseline Interpreter: a faster JS interpreter in Firefox 70](https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/) - _ Jan de Mooij_
 * [The Baseline Compiler Has Landed](https://blog.mozilla.org/javascript/2013/04/05/the-baseline-compiler-has-landed/) - _Kannan Vijayan_
 
 ### CacheIR
