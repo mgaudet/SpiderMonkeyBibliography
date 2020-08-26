@@ -30,7 +30,12 @@ TraceMonkey was the first JIT compiler added to SpiderMonkey, and [removed in Mo
 
 ### JaegerMonkey 🏚
 
-The first method compiler added to SpiderMonkey ([_More Info Wanted!_](https://github.com/mgaudet/SpiderMonkeyBibliography/issues/1))
+The first method compiler added to SpiderMonkey.
+
+* [Improving JavaScript performance with JägerMonkey](https://hacks.mozilla.org/2010/03/improving-javascript-performance-with-jagermonkey/) - ?, 2010
+* [Starting JägerMonkey](http://web.archive.org/web/20120420011230/https://blog.mozilla.org/dmandelin/2010/02/26/starting-jagermonkey/) - _Dave Mandelin_, 2010
+* [Land Ho, Fast JavaScript](http://www.bailopan.net/blog/?p=768) - _David Anderson_, 2010
+* [JaegerMonkey development diary - shaping up THE JavaScript engine for Firefox 4.0](https://www.digit.in/features/general/jaegermonkey-development-diary-shaping-up-the-javascript-engine-for-firefox-4-0-5151.html) - _Soumya Deb_, 2010
 
 ### IonMonkey
 
