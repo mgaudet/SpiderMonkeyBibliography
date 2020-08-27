@@ -42,7 +42,10 @@ The first method compiler added to SpiderMonkey.
 * [IonMonkey in Firefox 18](https://blog.mozilla.org/javascript/2012/09/12/ionmonkey-in-firefox-18/) - _David Anderson_ (2012)
 * [Recover Instructions](https://nbp.github.io/slides/RInstruction/) - _Nicolas B. Pierron_
 * [Just-in-Time Value specialization](https://ieeexplore.ieee.org/document/6495006) - _Igor Costa, Péricles Alves, Henrique Nazaré Santos, Fernando Magno Quintão Pereira_, CGO '13, 🎓 [📄](https://homepages.dcc.ufmg.br/~fernando/publications/papers/CGO13_igor.pdf)
+
+#### Exploitation Reports
 * [A journey into IonMonkey: root-causing CVE-2019-9810](https://doar-e.github.io/blog/2019/06/17/a-journey-into-ionmonkey-root-causing-cve-2019-9810/) - _Axel "0vercl0k" Souchet_, (2019)
+* [Exploiting CVE-2019-17026 - A Firefox JIT Bug](https://labs.f-secure.com/blog/exploiting-cve-2019-17026-a-firefox-jit-bug/) - _Max Van Amerongen_ (2020)
 
 ### OdinMonkey (asm.js)
 
