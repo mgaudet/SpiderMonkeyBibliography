@@ -69,13 +69,19 @@ The first method compiler added to SpiderMonkey.
 * [Land Ho, Fast JavaScript](http://www.bailopan.net/blog/?p=768), _David Anderson_ (2010)
 * [JaegerMonkey development diary - shaping up THE JavaScript engine for Firefox 4.0](https://www.digit.in/features/general/jaegermonkey-development-diary-shaping-up-the-javascript-engine-for-firefox-4-0-5151.html), _Soumya Deb_ (2010)
 
-#### IonMonkey
+#### IonMonkey 
 
-The current method JIT compiler in SpiderMonkey
+The second method JIT compiler in SpiderMonkey. Warp, [enabled by default in Firefox 83](https://mozilla-spidermonkey.github.io/blog/2020/12/18/newsletter-8.html), has replaced the graph construction (IonBuilder) portion of Ion. 
 
 * [IonMonkey in Firefox 18](https://blog.mozilla.org/javascript/2012/09/12/ionmonkey-in-firefox-18/), _David Anderson_ (2012)
 * [Recover Instructions](https://nbp.github.io/slides/RInstruction/), _Nicolas B. Pierron_ (2014)
 * [Just-in-Time Value specialization](https://ieeexplore.ieee.org/document/6495006), _Igor Costa, Péricles Alves, Henrique Nazaré Santos, Fernando Magno Quintão Pereira_, CGO (2013) 🎓 [📄](https://homepages.dcc.ufmg.br/~fernando/publications/papers/CGO13_igor.pdf)
+
+#### WarpBuilder
+
+A new compiler frontend, creating MIR from bytecode, replacing the previous IonBuilder and Type Inference system. 
+
+* [Warp: Improved JS performance in Firefox 83](https://hacks.mozilla.org/2020/11/warp-improved-js-performance-in-firefox-83/), _Jan de Mooij_ (2020) 
 
 ##### Exploitation Reports
 * [A journey into IonMonkey: root-causing CVE-2019-9810](https://doar-e.github.io/blog/2019/06/17/a-journey-into-ionmonkey-root-causing-cve-2019-9810/), _Axel "0vercl0k" Souchet_ (2019)
@@ -106,11 +112,14 @@ The current method JIT compiler in SpiderMonkey
 
 * [CacheIR: A new approach to Inline Caching in Firefox](https://jandemooij.nl/blog/2017/01/25/cacheir/), _Jan de Mooij_ (2017)
 
-#### Type Inference
+#### Type Inference 🏚
+
+([Removed in Firefox 84](https://bugzilla.mozilla.org/show_bug.cgi?id=1673553)) 
 
 * [Fast and precise hybrid type inference for JavaScript](https://dl.acm.org/citation.cfm?id=2254094), _Brian Hackett, Shu-yu Guo_ (2012) 🎓 [📄](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.9413&rep=rep1&type=pdf)
 
-#### Optimization Tracking 🎓
+
+#### Optimization Tracking 🎓 🏚
 
 * [Optimization Coaching for JavaScript](https://2015.ecoop.org/event/research-track-optimization-coaching-for-javascript), _Vincent St-Amour, Shu-yu Guo_, ECOOP (2015) [📄](http://www.ccs.neu.edu/home/stamourv/papers/optimization-coaching-js.pdf)
     * [Presentation 📽](https://www.youtube.com/watch?v=ZBYj9UHoml0)
