@@ -78,15 +78,15 @@ The second method JIT compiler in SpiderMonkey. Warp, [enabled by default in Fir
 * [Recover Instructions](https://nbp.github.io/slides/RInstruction/), _Nicolas B. Pierron_ (2014)
 * [Optimizing Away](https://blog.mozilla.org/javascript/2014/07/15/ionmonkey-optimizing-away/), _Nicolas B. Pierron_ (2014)
 
+##### Exploitation Reports
+* [A journey into IonMonkey: root-causing CVE-2019-9810](https://doar-e.github.io/blog/2019/06/17/a-journey-into-ionmonkey-root-causing-cve-2019-9810/), _Axel "0vercl0k" Souchet_ (2019)
+* [Exploiting CVE-2019-17026 - A Firefox JIT Bug](https://labs.f-secure.com/blog/exploiting-cve-2019-17026-a-firefox-jit-bug/), _Max Van Amerongen_ (2020)
+
 #### WarpBuilder
 
 A new compiler frontend, creating MIR from bytecode, replacing the previous IonBuilder and Type Inference system. 
 
 * [Warp: Improved JS performance in Firefox 83](https://hacks.mozilla.org/2020/11/warp-improved-js-performance-in-firefox-83/), _Jan de Mooij_ (2020) 
-
-##### Exploitation Reports
-* [A journey into IonMonkey: root-causing CVE-2019-9810](https://doar-e.github.io/blog/2019/06/17/a-journey-into-ionmonkey-root-causing-cve-2019-9810/), _Axel "0vercl0k" Souchet_ (2019)
-* [Exploiting CVE-2019-17026 - A Firefox JIT Bug](https://labs.f-secure.com/blog/exploiting-cve-2019-17026-a-firefox-jit-bug/), _Max Van Amerongen_ (2020)
 
 #### OdinMonkey (asm.js)
 
