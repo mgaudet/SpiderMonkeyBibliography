@@ -74,8 +74,9 @@ The first method compiler added to SpiderMonkey.
 The second method JIT compiler in SpiderMonkey. Warp, [enabled by default in Firefox 83](https://mozilla-spidermonkey.github.io/blog/2020/12/18/newsletter-8.html), has replaced the graph construction (IonBuilder) portion of Ion. 
 
 * [IonMonkey in Firefox 18](https://blog.mozilla.org/javascript/2012/09/12/ionmonkey-in-firefox-18/), _David Anderson_ (2012)
-* [Recover Instructions](https://nbp.github.io/slides/RInstruction/), _Nicolas B. Pierron_ (2014)
 * [Just-in-Time Value specialization](https://ieeexplore.ieee.org/document/6495006), _Igor Costa, Péricles Alves, Henrique Nazaré Santos, Fernando Magno Quintão Pereira_, CGO (2013) 🎓 [📄](https://homepages.dcc.ufmg.br/~fernando/publications/papers/CGO13_igor.pdf)
+* [Recover Instructions](https://nbp.github.io/slides/RInstruction/), _Nicolas B. Pierron_ (2014)
+* [Optimizing Away](https://blog.mozilla.org/javascript/2014/07/15/ionmonkey-optimizing-away/), _Nicolas B. Pierron_ (2014)
 
 #### WarpBuilder
 
