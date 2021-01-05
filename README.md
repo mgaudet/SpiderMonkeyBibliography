@@ -105,8 +105,8 @@ A new compiler frontend, creating MIR from bytecode, replacing the previous IonB
 
 #### Baseline
 
-* [The Baseline Interpreter: a faster JS interpreter in Firefox 70](https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/), _Jan de Mooij_ (2019)
 * [The Baseline Compiler Has Landed](https://blog.mozilla.org/javascript/2013/04/05/the-baseline-compiler-has-landed/), _Kannan Vijayan_ (2013)
+* [The Baseline Interpreter: a faster JS interpreter in Firefox 70](https://hacks.mozilla.org/2019/08/the-baseline-interpreter-a-faster-js-interpreter-in-firefox-70/), _Jan de Mooij_ (2019)
 
 #### CacheIR
 
