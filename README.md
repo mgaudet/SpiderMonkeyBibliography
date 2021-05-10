@@ -23,6 +23,7 @@ Information about the SpiderMonkey Engine
 * [Compiler Compiler](https://hacks.mozilla.org/2020/06/compiler-compiler-working-on-a-javascript-engine/), _Yulia Startsev_ (2020) 📽 [Playlist](https://www.youtube.com/playlist?list=PLo3w8EB99pqJVPhmYbYdInBvAGarDavh-)
 * [How do Generators... Generate, in SpiderMonkey?](https://www.mgaudet.ca/technical/2020/9/1/how-do-generators-generate-in-spidermonkey), _Matthew Gaudet_ (2020)
 * [A Brief note on Environments and Scopes in SpiderMonkey](https://www.mgaudet.ca/technical/2020/9/10/a-brief-note-on-environments-and-scopes-in-spidermonkey), _Matthew Gaudet_ (2020)
+* [Implementing Private Fields for JavaScript](https://www.mgaudet.ca/technical/2021/5/4/implementing-private-fields-for-javascript), _Matthew Gaudet_ (2020)
 
 ### Debugger
 
