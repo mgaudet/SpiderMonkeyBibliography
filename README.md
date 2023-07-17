@@ -14,7 +14,8 @@ The goal is try to collect together much of what has been written about SpiderMo
 
 General history of the SpiderMonkey JavaScript engine: 
 
-* [JavaScript: The First 20 Years](https://zenodo.org/record/3710954), _Allen Wirfs-Brock and Brendan Eich_ (2020)  (Especially Part 1, Section 5: From Mocha to SpiderMonkey) 
+* [JavaScript: The First 20 Years](https://zenodo.org/record/3710954), _Allen Wirfs-Brock and Brendan Eich_ (2020)  (Especially Part 1, Section 5: From Mocha to SpiderMonkey)
+* [Historic SpiderMonkey Releases](https://github.com/Historic-Spidermonkey-Source-Code) A collection of SpiderMonkey releases curated by Wes Garland.
 
 ## VM
 
