@@ -16,6 +16,7 @@ General history of the SpiderMonkey JavaScript engine:
 
 * [JavaScript: The First 20 Years](https://zenodo.org/record/3710954), _Allen Wirfs-Brock and Brendan Eich_ (2020)  (Especially Part 1, Section 5: From Mocha to SpiderMonkey)
 * [Historic SpiderMonkey Releases](https://github.com/Historic-Spidermonkey-Source-Code) A collection of SpiderMonkey releases curated by Wes Garland.
+* [Mapping the monkeysphere](https://web.archive.org/web/20190318024148/http://blog.cdleary.com/2011/06/mapping-the-monkeysphere/) _Chris Leary_ (2011)
 
 ## VM
 
