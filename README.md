@@ -84,6 +84,7 @@ The second method JIT compiler in SpiderMonkey. Warp, [enabled by default in Fir
 ##### Exploitation Reports
 * [A journey into IonMonkey: root-causing CVE-2019-9810](https://doar-e.github.io/blog/2019/06/17/a-journey-into-ionmonkey-root-causing-cve-2019-9810/), _Axel "0vercl0k" Souchet_ (2019)
 * [Exploiting CVE-2019-17026 - A Firefox JIT Bug](https://labs.f-secure.com/blog/exploiting-cve-2019-17026-a-firefox-jit-bug/), _Max Van Amerongen_ (2020)
+* [CVE-2024-29943](https://github.com/bjrjk/CVE-2024-29943), _Jack Ren_ (2024)
 
 #### WarpBuilder
 
