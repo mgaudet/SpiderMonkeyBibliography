@@ -38,6 +38,10 @@ SpiderMonkey is designed to be embedded in other programs. This section covers t
 * [SpiderMonkey Embedding Examples](https://github.com/spidermonkey-embedders/spidermonkey-embedding-examples)
 * [Code-generating Away the Boilerplate in Our Migration Back to Spidermonkey](https://engineering.mongodb.com/post/code-generating-away-the-boilerplate-in-our-migration-back-to-spidermonkey), _Jason Carey_ (2016)
 
+### Exploits
+
+* [Ancient Monkey: Pwning a 17-Year Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
+
 
 ### Garbage Collection
 
