@@ -120,6 +120,7 @@ A new compiler frontend, creating MIR from bytecode, replacing the previous IonB
 #### CacheIR
 
 * [CacheIR: A new approach to Inline Caching in Firefox](https://jandemooij.nl/blog/2017/01/25/cacheir/), _Jan de Mooij_ (2017)
+* [CacheIR: The Benefits of a Structured Representation for Inline Caches](https://dl.acm.org/doi/10.1145/3617651.3622979) _Jan de Mooij, Matthew Gaudet, Iain Ireland, Nathan Henderson, J. Nelson Amaral_ (2023)
 
 #### Type Inference 🏚
 
